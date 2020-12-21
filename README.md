@@ -7,7 +7,7 @@
 
 #### 模块介绍
 
-[模块一]: https://gitee.com/michael100824/lagouhomework/tree/master/%E6%A8%A1%E5%9D%97%E4%B8%80
+[模块一]: https://gitee.com/michael100824/lagouhomework/tree/master/%E6%A8%A1%E5%9D%97%E4%B8%80	"模块一"
 
 本模块将会介绍Java语言的环境搭建和编程基础，通过流程控制语句和数组锻炼逻辑思维能力。
 
