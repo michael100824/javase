@@ -1,37 +1,30 @@
 # lagouhomework
 
 #### 介绍
-拉勾教育大数据训练营作业
-
-#### 软件架构
-软件架构说明
+拉勾教育大数据训练营作业提交
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 模块介绍
 
-#### 使用说明
+[模块一]: https://gitee.com/michael100824/lagouhomework/tree/master/%E6%A8%A1%E5%9D%97%E4%B8%80
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+本模块将会介绍Java语言的环境搭建和编程基础，通过流程控制语句和数组锻炼逻辑思维能力。
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+[模块二]: https://gitee.com/michael100824/lagouhomework/tree/master/%E6%A8%A1%E5%9D%97%E4%BA%8C
+
+本模块通过现实中的案例来展现和剖析面向对象编程的思想，并掌握面向对象编程的语法规则。
+
+
+
+模块三
+
+本模块学习Java语言中常用类和String类以及集合类等，并掌握内存中的增删改查操作。
+
+
+
+模块四
+
+本模块学习IO流和线程以及网络编程等，并掌握多设备之间一对一和一对多的通信方式。
